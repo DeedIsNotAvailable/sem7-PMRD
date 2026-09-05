@@ -1,0 +1,5 @@
+outs:
+- md5: 1f9b664a8ccd3db448ff020a26641e65
+  size: 65705
+  hash: md5
+  path: fishing_dataset.csv
